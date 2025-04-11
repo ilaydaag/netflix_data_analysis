@@ -33,7 +33,7 @@ Bu proje, Netflix'teki içerikleri analiz ederek içerik türleri, hedef yaş gr
 ## 🚀 Başlamak İçin
 
 ```bash
-git clone https://github.com/kullanici_adin/netflix-data-analysis.git
+git clone https://github.com/ilaydaag/netflix-data-analysis.git
 cd netflix-data-analysis
 pip install -r requirements.txt  # (opsiyonel)
 jupyter notebook
